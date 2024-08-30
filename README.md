@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nojusta&hide=tex,html,makefile&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nojusta&hide=php,tex,html,makefile,scss,handlebars,&theme=tokyonight)
 
 ## 🌐 Interests
 
