@@ -48,11 +48,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nojusta&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-
-<br/>
-
-<div align="center" style="margin-top: 20px;">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojusta&hide=php,tex,html,css,makefile,scss,handlebars,&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nojusta&count_private=true&theme=react&border_radius=10" alt="streak stats" style="display: block; margin-bottom: 20px;" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojusta&hide=php,tex,html,css,makefile,scss,handlebars,&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="display: block;" />
 </div>
